@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/eduiotblockly/static/css/main.ad87e735.chunk.css",
+    "main.js": "/eduiotblockly/static/js/main.9f57ebbb.chunk.js",
+    "main.js.map": "/eduiotblockly/static/js/main.9f57ebbb.chunk.js.map",
+    "runtime-main.js": "/eduiotblockly/static/js/runtime-main.8bf61cef.js",
+    "runtime-main.js.map": "/eduiotblockly/static/js/runtime-main.8bf61cef.js.map",
+    "static/css/2.9fae3196.chunk.css": "/eduiotblockly/static/css/2.9fae3196.chunk.css",
+    "static/js/2.fb8b473c.chunk.js": "/eduiotblockly/static/js/2.fb8b473c.chunk.js",
+    "static/js/2.fb8b473c.chunk.js.map": "/eduiotblockly/static/js/2.fb8b473c.chunk.js.map",
+    "static/js/3.68d25320.chunk.js": "/eduiotblockly/static/js/3.68d25320.chunk.js",
+    "static/js/3.68d25320.chunk.js.map": "/eduiotblockly/static/js/3.68d25320.chunk.js.map",
+    "index.html": "/eduiotblockly/index.html",
+    "static/css/2.9fae3196.chunk.css.map": "/eduiotblockly/static/css/2.9fae3196.chunk.css.map",
+    "static/css/main.ad87e735.chunk.css.map": "/eduiotblockly/static/css/main.ad87e735.chunk.css.map",
+    "static/js/2.fb8b473c.chunk.js.LICENSE.txt": "/eduiotblockly/static/js/2.fb8b473c.chunk.js.LICENSE.txt",
+    "static/media/IoT Smart Board-01.08ed2f75.jpg": "/eduiotblockly/static/media/IoT Smart Board-01.08ed2f75.jpg",
+    "static/media/IoT Smart Board-02.484d1207.jpg": "/eduiotblockly/static/media/IoT Smart Board-02.484d1207.jpg",
+    "static/media/iot.b0c9fe02.png": "/eduiotblockly/static/media/iot.b0c9fe02.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bf61cef.js",
+    "static/css/2.9fae3196.chunk.css",
+    "static/js/2.fb8b473c.chunk.js",
+    "static/css/main.ad87e735.chunk.css",
+    "static/js/main.9f57ebbb.chunk.js"
+  ]
+}
